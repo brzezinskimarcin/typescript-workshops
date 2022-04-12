@@ -1,0 +1,5 @@
+:not(pre) > code::before,
+:not(pre) > code::after {
+  content: '';
+  margin: 0.1em;
+}

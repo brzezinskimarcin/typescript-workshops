@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.29.0",
+    "slidev-theme-light-icons": "^1.0.2"
+  },
+  "name": "typescript-workshops"
+}

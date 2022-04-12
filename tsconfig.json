@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "lib": [
+      "es2021",
+      "dom",
+      "dom.iterable",
+    ],
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "target": "es2021",
+    "strict": true
+  }
+}
