@@ -51,6 +51,17 @@ ol {
 }
 </style>
 
+---
+layout: center-image
+---
+
+<h2 class="text-primary text-xl font-semibold">
+  Clone the repo
+</h2>
+
+https://github.com/brzezinskimarcin/typescript-workshops
+
+https://stackblitz.com/edit/typescript-lcbqt5?file=exercises/1-basics/index.ts
 
 ---
 layout: center-image
